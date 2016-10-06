@@ -1,4 +1,20 @@
 {
-  "players": [],
+  "players": [
+	{"name":"James","points":"1000"},
+	{"name":"John","points":"950"},
+	{"name":"Robert","points":"900"},
+	{"name":"Michael","points":"895"},
+	{"name":"William","points":"850"},
+	{"name":"David","points":"840"},
+	{"name":"Richard","points":"795"},
+	{"name":"Charles","points":"500"},
+	{"name":"Joseph","points":"500"},
+	{"name":"Thomas","points":"500"},
+	{"name":"Christopher","points":"300"},
+	{"name":"Daniel","points":"295"},
+	{"name":"Paul","points":"290"},
+	{"name":"Mark","points":"280"},
+	{"name":"Donald","points":"270"}
+  ],
   "last_updated": "2016-09-28T00:00:00.000Z"
 }
